@@ -8,8 +8,6 @@ This is the first episode in a series of to-do list apps, with more features and
 ✅ Code written by **Rebirth Core - Joy Feelz**  
 ✅ Maintained by **Rebirth Core**  
 
----
-
 ## 📌 Features  
 ✅ Task Creation & Deletion 📋  
 ✅ Task Editing ✏️  
@@ -20,12 +18,12 @@ This is the first episode in a series of to-do list apps, with more features and
 ✅ Task Persistence (Data remains even when refreshed) 🔄  
 ✅ Mobile-Friendly & Optimized ⚡  
 
----
 
 ## 🛠️ Technologies Used  
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)  
+
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 
